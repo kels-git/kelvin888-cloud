@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/4cc90ca0e8df53c01ad0726d0e82abe3bb954d48e34c3d2832f526a4725ac900/687474703a2f2f7777772e6b6572656d637562756b2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f31312f62616e6e65722e706e67)]
+![MasterHead](https://camo.githubusercontent.com/4cc90ca0e8df53c01ad0726d0e82abe3bb954d48e34c3d2832f526a4725ac900/687474703a2f2f7777772e6b6572656d637562756b2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f31312f62616e6e65722e706e67)
 
 <h1 align="center">Hi 👋, I'm Osazuwa Ogiemwanye</h1>
 <h3 align="center">A passionate Mobile App developer from Nigeria based in Malaysia</h3>
