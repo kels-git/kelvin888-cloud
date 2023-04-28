@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working as a mobile App **(React Native) developer**
 
-- 🌱 I’m currently learning **Swift & & SwiftUI**
+- 🌱 I’m currently learning **Swift & SwiftUI**
 
-- 💬 Ask me about anything **Native Android (Java) | Reactjs | React-Native**
+- 💬 Ask me about anything **React-Native | Reactjs |  Native Android (Java)**
 
 - 📫 How to reach me **osazuwaogiemwanye@gmail.com**
 
