@@ -32,3 +32,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kelvin888-cloud&show_icons=true&locale=en" alt="kelvin888-cloud" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kelvin888-cloud&" alt="kelvin888-cloud" /></p>
+
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
